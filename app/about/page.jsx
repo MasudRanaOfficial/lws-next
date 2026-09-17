@@ -2,6 +2,8 @@ import Link from 'next/link';
 import React from 'react';
 
 const AboutPage = () => {
+
+  throw new Error("there was a huge error!")
   return (
     <div>
       <main className='mt-10'>
