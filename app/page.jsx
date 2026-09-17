@@ -1,6 +1,5 @@
-import Image from "next/image";
-
 export default function Home() {
+  console.log("Hello may")
   return (
     <div>
       <h2 className="mt-10">
